@@ -1,0 +1,33 @@
+html,
+body,
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: hsl(47, 88%, 63%);
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.container {
+    height: 98vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+    width: 345px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.box .head-img {
+    width: 100%;
+}
