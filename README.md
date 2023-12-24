@@ -18,5 +18,5 @@ Users should be able to:
 ### Links
 
 - Solution URL: [URL here]()
-- Live Site URL: [URL here]()
+- Live Site URL: [URL here](https://mkamburdev.github.io/blog-preview-card-main/)
 
