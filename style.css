@@ -27,6 +27,7 @@ body {
     width: 345px;
     border: 1px solid black;
     border-radius: 10px;
+    box-shadow: 5px 5px 0px 0px black;
 }
 
 .head-img {
