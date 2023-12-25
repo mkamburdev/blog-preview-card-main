@@ -5,7 +5,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
-## The challenge
+### The challenge
 
 Your challenge is to build out this blog preview card and get it looking as close to the design as possible.
 
@@ -15,7 +15,7 @@ Your users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-## Where to find everything
+### Where to find everything
 
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
 
@@ -29,11 +29,11 @@ We also include variable and static font files for the required fonts for this p
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-## Screenshot
+### Screenshot
 ![](/assets/images/blog-preview-card-desktop.png)
 
 
-## Links
+### Links
 
 - Solution URL: [URL here](https://www.frontendmentor.io/solutions/blog-preview-card-aXQfy85_wA)
 - Live Site URL: [URL here](https://mkamburdev.github.io/blog-preview-card-main/)
