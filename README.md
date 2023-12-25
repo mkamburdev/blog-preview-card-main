@@ -12,11 +12,11 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-![]()
+![](/assets/images/blog-preview-card-desktop.png)
 
 
 ### Links
 
-- Solution URL: [URL here]()
+- Solution URL: [URL here](https://www.frontendmentor.io/solutions/blog-preview-card-aXQfy85_wA)
 - Live Site URL: [URL here](https://mkamburdev.github.io/blog-preview-card-main/)
 
