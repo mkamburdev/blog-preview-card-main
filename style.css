@@ -57,9 +57,16 @@ body {
 
 .title p {
     color: hsl(0, 0%, 50%);
+    margin-bottom: 20px;
 }
 
 .greg img {
     width: 35px;
     height: 35px;
+    float: left;
+}
+
+.greg h3 {
+    margin-left: 50px;
+    padding-top: 5px;
 }
