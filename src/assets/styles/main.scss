@@ -8,7 +8,7 @@ $font-family: 'Figtree', sans-serif;
 $font-weight-normal: 500;
 $font-weight-bold: 800;
 $box-shadow: 7px 7px 0px 0px $black-color;
-$border-radius: 15px;
+$border-radius: 20px;
 $transition: 0.5s;
 $paragraph-font-size: 12px;
 
@@ -47,13 +47,14 @@ body {
 
 .box {
 	background-color: $white-color;
-	padding: 20px;
-	width: 345px;
-	height: 500px;
+	padding: 25px;
+	width: 385px;
+	height: 520px;
 	border: 1px solid $black-color;
 	border-radius: $border-radius;
 	box-shadow: $box-shadow;
 	overflow: auto;
+	margin-top: 25px;
 
 	@media (max-width: 375px) {
 		width: 88%;
@@ -66,7 +67,7 @@ body {
 }
 
 .box h2 {
-	font-size: 18px;
+	font-size: 16px;
 	color: $black-color;
 	background-color: $primary-color;
 	width: 100px;
@@ -78,6 +79,8 @@ body {
 
 .content {
 	h2 {
+		width: 88px;
+		height: 30px;
 		margin-top: 15px;
 		margin-bottom: 15px;
 	}
@@ -85,8 +88,8 @@ body {
 
 .title {
 	h1 {
-		margin-top: 5px;
-		margin-bottom: 10px;
+		margin-top: 18px;
+		margin-bottom: 15px;
 		font-size: 25px;
 
 		&:hover {
@@ -97,7 +100,7 @@ body {
 
 	p {
 		color: $grey-color;
-		margin-bottom: 20px;
+		margin-bottom: 30px;
 	}
 }
 
