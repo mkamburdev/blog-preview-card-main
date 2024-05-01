@@ -33,7 +33,7 @@ body {
   width: 345px;
   height: 500px;
   border: 1px solid hsl(0, 0%, 7%);
-  border-radius: 10px;
+  border-radius: 15px;
   box-shadow: 7px 7px 0px 0px hsl(0, 0%, 7%);
   overflow: auto;
 }
@@ -45,6 +45,7 @@ body {
 
 .head-img {
   width: 100%;
+  border-radius: 10px;
 }
 
 .box h2 {
