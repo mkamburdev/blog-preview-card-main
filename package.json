@@ -1,0 +1,18 @@
+{
+  "name": "blog-preview-card-main",
+  "version": "1.0.0",
+  "description": "Frontend Mentor - Blog preview card solution",
+  "main": "src/scripts/main.js",
+  "scripts": {
+    "sass": "sass --watch src/assets/styles/main.scss:src/assets/styles/main.css",
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "sass": "^1.32.8",
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
